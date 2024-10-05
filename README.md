@@ -29,6 +29,11 @@
 
 ![VS_Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=&logoColor=white)
 
+### etc
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=plastic&logo=&logoColor=white)
+
 ## Design Skill
 
 ### Coding
