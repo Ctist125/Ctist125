@@ -48,5 +48,6 @@
 ## Studying
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-E11F20?style=plastic&logo=&logoColor=white)
 
 * 위 스킬들은 제가 공부를 하고 있고, 할 수 있는 스킬들을 표시해놓은 것 입니다.
