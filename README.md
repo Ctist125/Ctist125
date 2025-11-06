@@ -1,5 +1,3 @@
-# 안녕하세요. 웹 개발을 중점적으로 공부하고 있는 Tief입니다.
-
 ## Coding Skill
 
 ### Front-end
@@ -45,9 +43,4 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=plastic&logo=&logoColor=white)
 
-## Studying
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-E11F20?style=plastic&logo=&logoColor=white)
-
-* 위 스킬들은 제가 공부를 하고 있고, 할 수 있는 스킬들을 표시해놓은 것 입니다.
+- 위 스킬들은 제가 공부를 하고 있고, 할 수 있는 스킬들을 표시해놓은 것 입니다.
